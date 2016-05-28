@@ -1,0 +1,10 @@
+<?php
+// ÕâÊÇ×¢ÊÍ
+echo "helloworld";
+echo "helloworld";
+// ctrl + alt + ôl
+echo "helloworld";
+echo "helloworld";
+
+//first commit version
+echo "add github";
